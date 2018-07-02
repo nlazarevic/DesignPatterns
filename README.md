@@ -8,3 +8,8 @@
 ## 6. Strategy
 ## 7. Adapter
 ## 8. Command
+## 9. Iterator
+## 10. Facade
+## 11. Factory method
+## 12. Memento
+## 13. State
